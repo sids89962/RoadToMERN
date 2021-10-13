@@ -22,4 +22,8 @@ For CSS - <a href="https://css-tricks.com/">CSS-TRICKS</a>
   <li>What is context?</li>
   <li>What are prop type and what are the benfits and drawbacks of them?</li>
   <li>What life cycle event is most common from your perspective?</li>
+  <li>When do you use a pure component and when do you use a class?</li>
+  <li>Explain how react rendering works in your own terms.</li>
+  <li>What is container component?</li>
+  <li>What is view component?</li>
 </ul>
