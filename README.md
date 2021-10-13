@@ -18,4 +18,8 @@ For CSS - <a href="https://css-tricks.com/">CSS-TRICKS</a>
   <li>Always have a basic knowledge of Data Structures.</li>
   <li>Difference between class and functional components</li>
   <li>Disadvantages of using state management libraries in React? </li>
+  <li>Why does react need a root element? </li>
+  <li>What is context?</li>
+  <li>What are prop type and what are the benfits and drawbacks of them?</li>
+  <li>What life cycle event is most common from your perspective?</li>
 </ul>
