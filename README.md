@@ -4,7 +4,7 @@ This is my repository where I will share how I went from non CS student to a MER
 <hr>
 <h3>Roadmap</h3>
 <h4>Day 1-5</h4>
-It should be enough to cover the basics of HTML/CSS. Few things you should deifinitely cover with CSS are positioning, flex-box or grid system, and basic image and text manipulation. If you want to skip the hazzel of making your website responive, learn bootstrap, its easy and will save a lot of your time.
+It should be enough to cover the basics of HTML/CSS. Few things you should deifinitely cover with CSS are positioning, flex-box or grid system, and basic image and text manipulation. If you want to skip the hazzel of making your website responive, learn bootstrap, its easy and will save a lot of your time. Spend a day or day and a half on HTML and rest on CSS.
 <h5>Resources</h5>
 For CSS - <a href="https://css-tricks.com/">CSS-TRICKS</a>
 
