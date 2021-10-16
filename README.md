@@ -9,7 +9,7 @@ It should be enough to cover the basics of HTML/CSS. Few things you should deifi
 <h5>Resources</h5>
 For CSS - <a href="https://css-tricks.com/">CSS-TRICKS</a>
 <h4>Day 6-20</h4>
-<strong>Javascript</strong> This is the what you have to master, rest everything will be a piece of cake. If you have studied any programming languages before, forget them because the way javascript works is quite different. And the possibilities it holds are endless. Stay motivated, you won't see any practical results for first 10 days but trust me you will.
+<strong>Javascript</strong>: This is what you have to master, rest everything will be a piece of cake. If you have studied any programming languages before, forget them because the way javascript works is quite different. And the possibilities it holds are endless. Stay motivated, you won't see any practical results for first 10 days but trust me you will.
 <h5>Resources</h5>
 <a href="https://www.freecodecamp.org/">Freecodecamp.org</a>
 <a href="https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP">Akshay Saini</a>
